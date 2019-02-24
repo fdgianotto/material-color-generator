@@ -1,6 +1,12 @@
 # Material Color Generator
 Material Color Generator is a simple tool that generates light and dark tones of a color based on how Material.io Color Tool works. It was created to work offline.
 
-![Red color example](https://i.imgur.com/hKeMi8g.png)
+<p align="center">
+  <img src="https://i.imgur.com/hKeMi8g.png">
+</p>
 
-![Blue color example](https://i.imgur.com/dOPjyMi.png)
+___
+
+<p align="center">
+  <img src="https://i.imgur.com/dOPjyMi.png">
+</p>
